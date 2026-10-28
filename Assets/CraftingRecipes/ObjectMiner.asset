@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddbd1fdcd870ac04fbc6be2ae144a2c7, type: 3}
+  m_Name: ObjectMiner
+  m_EditorClassIdentifier: 
+  iD: 25
+  ingredients:
+  - {fileID: 6295190799555593228, guid: 16b77a50e37ae0b4e8381b17944fec91, type: 3}
+  - {fileID: 1194809700841773828, guid: ec731b5abe9798d40b1b08d1e774e84b, type: 3}
+  amount: 140000000a000000
